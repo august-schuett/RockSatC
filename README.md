@@ -11,3 +11,4 @@ To do list:
  * Other useful commands are:
   * `git log` to see what happend
   * `git diff` to compare different versions of files
+ * to make a new repository: `git clone https://github.com/august-schuett/RockSatC.git`
